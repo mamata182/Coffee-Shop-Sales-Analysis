@@ -1,6 +1,5 @@
 # Coffee-Shop-Sales-Analysis
 Excel dashboard project analyzing coffee shop sales, footfall, products, and business performance.
-# Coffee Shop Sales Analysis Dashboard
 
 ## Project Overview
 This project analyzes coffee shop sales data using Microsoft Excel to understand sales performance, customer footfall, and product trends.
